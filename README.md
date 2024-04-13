@@ -21,5 +21,5 @@ LayeredLumen is a sophisticated Point of Sale (POS) system designed with a layer
 - **CSS**
 
 
-##Contributions Welcome!
+## Contributions Welcome!
 Contributions to the LayeredLumen project are welcome! If you have ideas for new features, improvements, or bug fixes, please submit a pull request. 
